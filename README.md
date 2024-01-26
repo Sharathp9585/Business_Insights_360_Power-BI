@@ -4,49 +4,6 @@
 AtliQ Hardware, experiencing rapid growth, plans to deploy Power BI for data analytics, aiming to outpace competitors and drive data-driven decisions. The project targets stakeholder queries in finance, sales, marketing, and supply chain aspects.
 ### Access Live Interactive Dashboard [Business Insights 360 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWQ3YjFkMWMtMzAyYS00ODgxLWFiNTgtMjhiZmM4MmYxNTljIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-## 📊 Learned Technical Skills
-
-### Languages:
-- 📊 SQL
-- 💡 DAX language
-- 🗄️ M language (for creating date tables)
-
-### Tools:
-- 📊 PowerBi Desktop
-- 📈 Excel
-- 🛠️ DAX studio (utilized for optimizing reports)
-- 📂 Project charter file (for comprehensive project management)
-
-### PowerBI Technical Proficiency:
-- 📊 Creating calculated columns
-- 📏 Crafting measures using DAX language
-- 🛠️ Mastering data modeling for effective visualization
-- 🔄 Leveraging Bookmarks for seamless visual switching
-- 🚀 Page navigation with buttons for user-friendly reports
-- 📅 Creating date tables using M language
-- 🔄 Dynamic titles based on applied filters
-- 📊 Incorporating KPI indicators for strategic insights
-- 🎨 Conditional formatting of visual values
-- 🛠️ Implementing data validation techniques
-
-### PowerBI Services and Deployment:
-- 📈 Navigating PowerBi services for cloud-based capabilities
-- 🚀 Efficiently publishing reports to PowerBi services
-- ⚙️ Configuring personal gateways for data auto-refresh setup
-
-### Business Related Terms Acquired:
-- 💰 Gross Price
-- 📉 Pre-Invoice Deductions
-- 📈 Post-Invoice Deductions
-- 💵 Net Invoice Sale
-- 📈 Gross Margin
-- 💰 Net Sales
-- 💼 Net Profit
-- 📉 COGC (Cost of Goods Sold)
-- 📅 YTD (Year to Date)
-- 📆 YTG (Year to Go)
-
-
 ## Details of the Project
 
 ### Company and its Business Model
@@ -143,7 +100,8 @@ Visualizing the development process using Power BI is essential for tracking pro
 ## Data Modelling
 <img width="838" alt="Data_model" src="https://github.com/Sharathp9585/Business_Insights_360_Power-BI/assets/155342101/2b5b8f04-2e43-48ba-88ea-c57b4d20bafe">
 
-## Dashboard Designing
+## Dashboard[Business Insights 360 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWQ3YjFkMWMtMzAyYS00ODgxLWFiNTgtMjhiZmM4MmYxNTljIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 
 In response to the mock-ups received as requirements, the team initiates the process of designing visuals and creating measures as needed.
 
@@ -189,6 +147,49 @@ By transitioning from relying solely on Excel to implementing Power BI, the comp
 ### Enhanced Transparency and Decision-Making:
 
 The Power BI dashboards fulfilled stakeholders' need for increased transparency in data. The project delivered clear and accessible visualizations, facilitating data-driven decision-making across diverse markets and functions. This enhanced transparency not only improved decision-making processes but also fostered a more collaborative and informed organizational culture.
+
+## 📊 Learned Technical Skills
+
+### Languages:
+- 📊 SQL
+- 💡 DAX language
+- 🗄️ M language (for creating date tables)
+
+### Tools:
+- 📊 PowerBi Desktop
+- 📈 Excel
+- 🛠️ DAX studio (utilized for optimizing reports)
+- 📂 Project charter file (for comprehensive project management)
+
+### PowerBI Technical Proficiency:
+- 📊 Creating calculated columns
+- 📏 Crafting measures using DAX language
+- 🛠️ Mastering data modeling for effective visualization
+- 🔄 Leveraging Bookmarks for seamless visual switching
+- 🚀 Page navigation with buttons for user-friendly reports
+- 📅 Creating date tables using M language
+- 🔄 Dynamic titles based on applied filters
+- 📊 Incorporating KPI indicators for strategic insights
+- 🎨 Conditional formatting of visual values
+- 🛠️ Implementing data validation techniques
+
+### PowerBI Services and Deployment:
+- 📈 Navigating PowerBi services for cloud-based capabilities
+- 🚀 Efficiently publishing reports to PowerBi services
+- ⚙️ Configuring personal gateways for data auto-refresh setup
+
+### Business Related Terms Acquired:
+- 💰 Gross Price
+- 📉 Pre-Invoice Deductions
+- 📈 Post-Invoice Deductions
+- 💵 Net Invoice Sale
+- 📈 Gross Margin
+- 💰 Net Sales
+- 💼 Net Profit
+- 📉 COGC (Cost of Goods Sold)
+- 📅 YTD (Year to Date)
+- 📆 YTG (Year to Go)
+
 
 
 
