@@ -1,4 +1,4 @@
-# Business_Insights_360_Power-BI
+# Business Insights 360 in PowerBI
 
 ## Project Overview
 AtliQ Hardware, experiencing rapid growth, plans to deploy Power BI for data analytics, aiming to outpace competitors and drive data-driven decisions. The project targets stakeholder queries in finance, sales, marketing, and supply chain aspects.
