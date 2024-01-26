@@ -2,7 +2,7 @@
 
 ## Project Overview
 AtliQ Hardware, experiencing rapid growth, plans to deploy Power BI for data analytics, aiming to outpace competitors and drive data-driven decisions. The project targets stakeholder queries in finance, sales, marketing, and supply chain aspects.
-###Access Live Interactive Dashboard [Business Insights 360 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWQ3YjFkMWMtMzAyYS00ODgxLWFiNTgtMjhiZmM4MmYxNTljIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+### Access Live Interactive Dashboard [Business Insights 360 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWQ3YjFkMWMtMzAyYS00ODgxLWFiNTgtMjhiZmM4MmYxNTljIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## Details of the Project
