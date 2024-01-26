@@ -107,36 +107,6 @@ In response to the mock-ups received as requirements, the team initiates the pro
 
 The Home view serves as the central hub, presenting users with convenient access to various specific views through dedicated buttons. Users can seamlessly navigate to their desired sections by clicking on the respective buttons.
 
-### Available Views
-
-1. **Info View:**
-   - Overview of essential information providing a snapshot of key metrics.
-
-2. **Finance View:**
-   - Dive into financial data with detailed insights, tracking budgets, revenues, and expenses.
-
-3. **Sales View:**
-   - Visualize sales performance, customer segmentation, and trends to optimize strategies.
-
-4. **Marketing View:**
-   - Explore marketing and customer engagement metrics.
-
-5. **Supply Chain View:**
-   - Gain visibility into the supply chain, monitoring inventory, logistics, and supplier performance.
-
-6. **Executive View:**
-   - A comprehensive view tailored for executives, offering a high-level summary of critical business aspects.
-
-This structured approach ensures that each view aligns with stakeholder requirements, contributing to a user-friendly and effective dashboard system.
-
-## Dashboard Designing
-
-In response to the mock-ups received as requirements, the team initiates the process of designing visuals and creating measures as needed.
-
-### Home View
-
-The Home view serves as the central hub, presenting users with convenient access to various specific views through dedicated buttons. Users can seamlessly navigate to their desired sections by clicking on the respective buttons.
-
 ![home](https://github.com/Sharathp9585/Business_Insights_360_Power-BI/assets/155342101/7d17cc07-7294-441e-b93a-c850f480efe6)
 
 ### Finance View
@@ -160,3 +130,61 @@ s, and customers. Gain a comprehensive understanding of forecasting precision an
 ### Executive View
 A high-level executive dashboard that consolidates key insights from all dimensions of the business. Provide a centralized view to executives, offering comprehensive and strategic overviews across various facets of the organization.
 ![exec](https://github.com/Sharathp9585/Business_Insights_360_Power-BI/assets/155342101/5dc5f37a-b129-41ba-8104-d9653a5b4a98)
+## Project Outcomes
+
+The implementation of Power BI dashboards addressed several challenges and yielded significant outcomes for Atliq Hardware:
+
+### Overcoming Regional Challenges:
+
+The project successfully navigated and mitigated substantial challenges faced by Atliq Hardware, particularly in Latin America. The Power BI dashboards provided a comprehensive understanding of regional dynamics, aiding strategic decision-making and contributing to the mitigation of significant losses.
+
+### Efficient Data Analysis Beyond Excel:
+
+By transitioning from relying solely on Excel to implementing Power BI, the company overcame limitations related to its size and extensive data. The project empowered Atliq Hardware with advanced analytics capabilities, enabling more efficient and insightful data analysis, thereby enhancing overall operational efficiency.
+
+### Enhanced Transparency and Decision-Making:
+
+The Power BI dashboards fulfilled stakeholders' need for increased transparency in data. The project delivered clear and accessible visualizations, facilitating data-driven decision-making across diverse markets and functions. This enhanced transparency not only improved decision-making processes but also fostered a more collaborative and informed organizational culture.
+
+## 📊 Learned Technical Skills
+
+### Languages:
+- 📊 SQL
+- 💡 DAX language
+- 🗄️ M language (for creating date tables)
+
+### Tools:
+- 📊 PowerBi Desktop
+- 📈 Excel
+- 🛠️ DAX studio (utilized for optimizing reports)
+- 📂 Project charter file (for comprehensive project management)
+
+### PowerBI Technical Proficiency:
+- 📊 Creating calculated columns
+- 📏 Crafting measures using DAX language
+- 🛠️ Mastering data modeling for effective visualization
+- 🔄 Leveraging Bookmarks for seamless visual switching
+- 🚀 Page navigation with buttons for user-friendly reports
+- 📅 Creating date tables using M language
+- 🔄 Dynamic titles based on applied filters
+- 📊 Incorporating KPI indicators for strategic insights
+- 🎨 Conditional formatting of visual values
+- 🛠️ Implementing data validation techniques
+
+### PowerBI Services and Deployment:
+- 📈 Navigating PowerBi services for cloud-based capabilities
+- 🚀 Efficiently publishing reports to PowerBi services
+- ⚙️ Configuring personal gateways for data auto-refresh setup
+
+### Business Related Terms Acquired:
+- 💰 Gross Price
+- 📉 Pre-Invoice Deductions
+- 📈 Post-Invoice Deductions
+- 💵 Net Invoice Sale
+- 📈 Gross Margin
+- 💰 Net Sales
+- 💼 Net Profit
+- 📉 COGC (Cost of Goods Sold)
+- 📅 YTD (Year to Date)
+- 📆 YTG (Year to Go)
+
