@@ -54,7 +54,7 @@ Understanding the available data is crucial for effective analysis. Before delvi
 2. **dim_market:**
    - 27 distinct markets (e.g., India, USA, Spain)
    - 7 sub-zones
-   - 4 regions: APAC, EU, nan, LATAM
+   - 4 regions: APAC, EU, NA, LATAM
 
 3. **dim_product:**
    - Divisions: P & A, Peripherals, Accessories, PC, Notebook, Desktop, N & S, Networking, Storage
@@ -91,6 +91,9 @@ Understanding the available data is crucial for effective analysis. Before delvi
 
 Understanding these datasets is foundational for meaningful analysis and will contribute to higher customer satisfaction, reduced warehousing costs, and informed decision-making.
 
+## Power BI Developmental Pipeline
 
+Visualizing the development process using Power BI is essential for tracking progress. Below is an illustrative representation of the Power BI developmental pipeline:
 
+![Power BI Developmental Pipeline]([URL_TO_YOUR_IMAGE](https://github.com/Sharathp9585/Business_Insights_360_Power-BI/assets/155342101/0ea42097-399d-4e33-967a-3fb15f765be5))
 
