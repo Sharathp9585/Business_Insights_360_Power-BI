@@ -100,7 +100,7 @@ Visualizing the development process using Power BI is essential for tracking pro
 ## Data Modelling
 <img width="838" alt="Data_model" src="https://github.com/Sharathp9585/Business_Insights_360_Power-BI/assets/155342101/2b5b8f04-2e43-48ba-88ea-c57b4d20bafe">
 
-## Dashboard[Business Insights 360 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWQ3YjFkMWMtMzAyYS00ODgxLWFiNTgtMjhiZmM4MmYxNTljIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+## Dashboard[Access here](https://app.powerbi.com/view?r=eyJrIjoiMWQ3YjFkMWMtMzAyYS00ODgxLWFiNTgtMjhiZmM4MmYxNTljIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 In response to the mock-ups received as requirements, the team initiates the process of designing visuals and creating measures as needed.
