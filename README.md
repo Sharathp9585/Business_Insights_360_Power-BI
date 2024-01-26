@@ -96,5 +96,5 @@ Understanding these datasets is foundational for meaningful analysis and will co
 Visualizing the development process using Power BI is essential for tracking progress. Below is an illustrative representation of the Power BI developmental pipeline:
 
 ![Power BI Developmental Pipeline](https://github.com/Sharathp9585/Business_Insights_360_Power-BI/assets/155342101/0ea42097-399d-4e33-967a-3fb15f765be5)
-
-
+## Data Modelling
+<img width="838" alt="Data_model" src="https://github.com/Sharathp9585/Business_Insights_360_Power-BI/assets/155342101/2b5b8f04-2e43-48ba-88ea-c57b4d20bafe">
