@@ -140,13 +140,25 @@ The implementation of Power BI dashboards addressed several challenges and yield
 
 The project successfully navigated and mitigated substantial challenges faced by Atliq Hardware, particularly in Latin America. The Power BI dashboards provided a comprehensive understanding of regional dynamics, aiding strategic decision-making and contributing to the mitigation of significant losses.
 
+#### Insights
+- In 2020, the Latin America region showed negative net profit. It is because Cost of goods sold (COGS) + Operational expenses accounted for more than 100% of Net sales.
+- Peripherals, Accessories, Notebook shows good performance with respect to Net profits% vs Net sales but Network and Storage division shows poor performance.
+
 ### Efficient Data Analysis Beyond Excel:
 
 By transitioning from relying solely on Excel to implementing Power BI, the company overcame limitations related to its size and extensive data. The project empowered Atliq Hardware with advanced analytics capabilities, enabling more efficient and insightful data analysis, thereby enhancing overall operational efficiency.
 
+#### Insights
+- Total of 23 customers risk factor shows Out of stock (OOS) with Highest forecast accuracy of 56% and lowest being -4%.
+
 ### Enhanced Transparency and Decision-Making:
 
 The Power BI dashboards fulfilled stakeholders' need for increased transparency in data. The project delivered clear and accessible visualizations, facilitating data-driven decision-making across diverse markets and functions. This enhanced transparency not only improved decision-making processes but also fostered a more collaborative and informed organizational culture.
+
+#### Insights
+- PC market share of Atliq is estimated to capture significant market share (~6%) which is a great increase considering that it was negligible from last four years.
+
+
 
 ## 📊 Learned Technical Skills
 
