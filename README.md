@@ -141,7 +141,7 @@ The implementation of Power BI dashboards addressed several challenges and yield
 The project successfully navigated and mitigated substantial challenges faced by Atliq Hardware, particularly in Latin America. The Power BI dashboards provided a comprehensive understanding of regional dynamics, aiding strategic decision-making and contributing to the mitigation of significant losses.
 
 #### Insights
-- In 2020, the Latin America region showed negative net profit. It is because Cost of goods sold (COGS) + Operational expenses accounted for more than 100% of Net sales.
+- In 2020, the Latin America region showed negative net profit. It is because Cost of goods sold (COGS) + Operational expenses accounted for more than 100% of Net sales.10% reduction in both Cost of Goods Sold (COGS) and Operating Costs translates to a significant increase in net profit(from 0 million to 0.2 Million Dollars)
 - Peripherals, Accessories, Notebook shows good performance with respect to Net profits% vs Net sales but Network and Storage division shows poor performance.
 
 ### Efficient Data Analysis Beyond Excel:
